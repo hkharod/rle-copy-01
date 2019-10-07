@@ -4,7 +4,7 @@ permalink: '/:title/'
 palette: blue
 header:
   has_nav: true
-  logo_img: /images/logo_transparent.png
+  logo_img: /images/icons8-home-automation-80.png
   menu:
     actions:
       - label: Sign Up
